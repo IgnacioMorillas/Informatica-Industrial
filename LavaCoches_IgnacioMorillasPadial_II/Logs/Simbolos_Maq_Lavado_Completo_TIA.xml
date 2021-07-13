@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="Simbolos_Maq_Lavado_Completo_TIA.xml" projectName="C:\Users\Nacho\Desktop\Universidad 20-21\ii\SegundaParte(TIAPORTAL)\SIMULMAQ-LA\Simbolos_Maq_Lavado_Completo_TIA.xlsx" typeText="Tipo" messageText="Mensaje" timeText="Tiempo">
+  <LogEntry type="Warning" dateTime="11:18:02">
+    <Message>El documento de Excel no contiene ninguna hoja de cálculo "Constants".</Message>
+  </LogEntry>
+</LogFile>
